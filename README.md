@@ -1,4 +1,6 @@
 # FOODDELIVERY 
+User Panel: [https://food-delivery-frontend-s2l9.onrender.com/](https://fooddelivery-frontend-ewp0.onrender.com/)
+Admin Panel: [https://food-delivery-admin-wrme.onrender.com/](https://fooddelivery-admin-s1n3.onrender.com/)
 
 #### 🛠️ **Setup Instructions**  
 
